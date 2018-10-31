@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390.45" height="272.86" viewBox="0 0 390.45 272.86">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #10a308;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+
+      .cls-2 {
+        fill: #52d64c;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <title>cucumber</title>
+  <g id="slice">
+    <g id="Layer_5" data-name="Layer 5">
+      <circle class="cls-1" cx="337.95" cy="220.36" r="51"/>
+    </g>
+    <ellipse class="cls-2" cx="332.95" cy="214.86" rx="49" ry="45.5"/>
+    <g>
+      <ellipse class="cls-3" cx="792.22" cy="624.93" rx="9" ry="4.12" transform="translate(-508.22 736.7) rotate(-70.89)"/>
+      <ellipse class="cls-3" cx="780.59" cy="665.35" rx="9" ry="4.12" transform="translate(-554.24 752.89) rotate(-70.89)"/>
+      <ellipse class="cls-3" cx="801.32" cy="637.61" rx="9" ry="4.12" transform="translate(-648.52 -18.33) rotate(-25.89)"/>
+      <path class="cls-3" d="M761.73,656.82c1,2,5.43,1.95,9.9-.22s7.29-5.59,6.3-7.64-5.43-2-9.9.22-7.29,5.59-6.3,7.64" transform="translate(-450.55 -432.14)"/>
+      <path class="cls-3" d="M769.45,632.62c-1.3,2.87.5,6.48,4,8.07s7.41.53,8.71-2.34-.51-6.49-4-8.07-7.41-.53-8.7,2.34" transform="translate(-450.55 -432.14)"/>
+      <path class="cls-3" d="M802.58,657.33c1.29-2.88-.51-6.49-4-8.07s-7.41-.53-8.7,2.34.5,6.48,4,8.07,7.41.53,8.71-2.34" transform="translate(-450.55 -432.14)"/>
+    </g>
+  </g>
+  <g id="cucumber">
+    <g>
+      <path class="cls-1" d="M687,685S494,563,457,522c0,0-31.5-98.5,64.5-87.5,0,0,208,91,212,110,0,0,25,16,20,88C753.5,632.5,737.5,696.5,687,685Z" transform="translate(-450.55 -432.14)"/>
+      <ellipse class="cls-2" cx="250.2" cy="172.86" rx="54.25" ry="81"/>
+      <g>
+        <ellipse class="cls-3" cx="250.95" cy="145.86" rx="5.5" ry="12"/>
+        <ellipse class="cls-3" cx="253.95" cy="201.86" rx="5.5" ry="12"/>
+        <ellipse class="cls-3" cx="718.5" cy="590" rx="12" ry="5.5" transform="translate(-657.3 248.72) rotate(-45)"/>
+        <ellipse class="cls-3" cx="685.5" cy="623" rx="12" ry="5.5" transform="translate(-690.3 235.05) rotate(-45)"/>
+        <ellipse class="cls-3" cx="685.43" cy="598.46" rx="7.61" ry="9.3" transform="translate(-422.5 795.47) rotate(-84.87)"/>
+        <ellipse class="cls-3" cx="719.43" cy="613.46" rx="7.61" ry="9.3" transform="translate(-406.48 842.99) rotate(-84.87)"/>
+      </g>
+    </g>
+  </g>
+</svg>

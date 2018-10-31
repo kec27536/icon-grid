@@ -1,0 +1,22 @@
+/** 
+* Document Grid
+* Creates a three column grid for our icons.
+*/
+
+.grid {
+	display: grid;
+		grid-template-columns: 1fr 1fr 1fr ;
+		grid-gap: 1rem;
+}
+
+.lowrider:hover {
+	fill: #2566B2;
+}
+
+.church:hover {
+	fill: red;
+}
+
+.cls-2:hover {
+	fill: purple;
+}
